@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(242, 245, 248); 
+
+
+}
+#fazer{
+display: flex;
+    justify-content: center;
+}
+h1{
+    color: rgb(36, 19, 148);
+    text-align: center;
+}
+input{
+    background-color: rgb(36, 19, 148)  ;
+border-radius: 10px;
+color: white;
+}

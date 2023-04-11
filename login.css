@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+.a{
+    height: 650px;
+    width:100%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+  
+
+}
+
+.principal{
+    width: 70%;
+    height: 600px;
+
+}
+.login{
+    width: 30%;
+    height: 650px;
+    background-color: aliceblue;
+    display: flex;
+  justify-content: center;
+}
+h1{
+color: rgb(45, 37, 95);
+text-align:center ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+}
+input{
+    border-radius: 20px;
+    border: solid 2px rgb(45, 37, 95);
+    height: 20px;
+    width: 200px;
+    background-color: rgb(204, 217, 240);
+
+  
+}
+#b{
+    background-color: rgb(45, 37, 95);
+    width: 80px;
+    height: 25px;
+    border: 0;
+    margin-top:10px ; 
+    color: white;
+
+}
+.b{
+    justify-content: center;
+display: flex;      
+
+}
+.cpf{
+    justify-content: center;
+display: flex; 
+margin-top: 100px;
+}
+.senha{
+    justify-content: center;
+    display: flex; 
+    margin-top:0 ;
+    }
+.c{
+    justify-content: center;
+    display: flex; 
+    
+}
+
+a{
+    text-decoration: none;
+}
